@@ -1,0 +1,28 @@
+Script started on Mon 25 Nov 2013 01:19:52 PM EST
+timberlake {~/cse241/hw8} > ls
+[00m[00m5_36_tb.v[00m  [00m5_36.v[00m  [00mhw8.txt[00m
+[mtimberlake {~/cse241/hw8} > lsexitiverilog -o 5_36.vvp 5_36.v 5_36_tb.v
+timberlake {~/cse241/hw8} > iverilog -o 5_36.vvp 5_36.v 5_36_tb.v[29Gls[Kexitvim 5_36.v_tb.v[30Gvp a.out[K[30Gim 5_36_tb.v[37G.v[K[29Gexit[Kls[Kiverilog -o 5_36.vvp 5_36.v 5_36_tb.v[29G[Kiverilog -o 5_36.vvp 5_36.v 5_36_tb.v[29Gls[Kexitvim 5_36.v_tb.v[30Gvp a.out[K[K[K[K[K[K5_36.vvp
+VCD info: dumpfile 5_36_wv.vcd opened for output.
+time = 0 clk = 0 reset = 0 a_out = 0 b_out = 0
+time = 5 clk = 0 reset = 1 a_out = 0 b_out = 0
+time = 10 clk = 1 reset = 1 a_out = 0 b_out = 1
+time = 15 clk = 0 reset = 1 a_out = 0 b_out = 1
+time = 20 clk = 1 reset = 1 a_out = 1 b_out = 0
+time = 25 clk = 0 reset = 1 a_out = 1 b_out = 0
+time = 30 clk = 1 reset = 1 a_out = 0 b_out = 0
+time = 35 clk = 0 reset = 1 a_out = 0 b_out = 0
+time = 40 clk = 1 reset = 1 a_out = 0 b_out = 1
+time = 45 clk = 0 reset = 1 a_out = 0 b_out = 1
+time = 50 clk = 1 reset = 1 a_out = 1 b_out = 0
+time = 55 clk = 0 reset = 1 a_out = 1 b_out = 0
+time = 60 clk = 1 reset = 1 a_out = 0 b_out = 0
+time = 65 clk = 0 reset = 1 a_out = 0 b_out = 0
+time = 70 clk = 1 reset = 1 a_out = 0 b_out = 1
+time = 75 clk = 0 reset = 1 a_out = 0 b_out = 1
+time = 80 clk = 1 reset = 1 a_out = 1 b_out = 0
+time = 85 clk = 0 reset = 1 a_out = 1 b_out = 0
+timberlake {~/cse241/hw8} > exit
+exit
+
+Script done on Mon 25 Nov 2013 01:20:36 PM EST

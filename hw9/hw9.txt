@@ -1,0 +1,24 @@
+Script started on Sun 01 Dec 2013 03:24:48 PM EST
+timberlake {~/cse241/hw9} > cd ..[29Gls[Kgtkwave 5_41_wv.vcd[29Gvvp 5_41.vvp[K[29G[17@iverilog -o 5_41.[56G 5_41_tb.v
+timberlake {~/cse241/hw9} > iverilog -o 5_41.vvp 5_41.v 5_41_tb.v[29Gcd ..[K[29Gls[Kgtkwave 5_41_wv.vcd[29Gvvp 5_41.vvp[K
+VCD info: dumpfile 5_41_wv.vcd opened for output.
+time = 0, reset = x, x = 0, y_out = 0
+time = 2, reset = 1, x = 0, y_out = 0
+time = 5, reset = 0, x = 0, y_out = 0
+time = 9, reset = 1, x = 0, y_out = 0
+time = 19, reset = 1, x = 1, y_out = 1
+time = 25, reset = 1, x = 1, y_out = 1
+time = 35, reset = 1, x = 1, y_out = 1
+time = 45, reset = 1, x = 1, y_out = 0
+time = 55, reset = 1, x = 1, y_out = 1
+time = 65, reset = 1, x = 1, y_out = 1
+time = 75, reset = 1, x = 1, y_out = 1
+time = 85, reset = 1, x = 1, y_out = 0
+time = 95, reset = 1, x = 1, y_out = 1
+time = 105, reset = 1, x = 1, y_out = 1
+time = 115, reset = 1, x = 1, y_out = 1
+time = 119, reset = 1, x = 0, y_out = 0
+timberlake {~/cse241/hw9} > exit
+exit
+
+Script done on Sun 01 Dec 2013 03:25:02 PM EST

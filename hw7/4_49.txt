@@ -1,0 +1,24 @@
+Script started on Fri 15 Nov 2013 11:12:49 PM EST
+timberlake {~/cse241/hw7} > exitvim 4_42_beh.v[29G[21@iverilog -o 4_42_beh.vvp[64G_42[P[1@9_beh[P[P[P[P.vvp 4_42_beh.v[K.v[K.v[K.v[K.v[K9.v.v 4_49.[K_tb.v
+timberlake {~/cse241/hw7} > vvp 4_49.vvp
+VCD info: dumpfile 4_49_wv.vcd opened for output.
+ABCD = 0000 F1 = 0 F2 = 1
+ABCD = 0001 F1 = 1 F2 = 0
+ABCD = 0010 F1 = 1 F2 = 1
+ABCD = 0011 F1 = 1 F2 = 0
+ABCD = 0100 F1 = 1 F2 = 1
+ABCD = 0101 F1 = 0 F2 = 1
+ABCD = 0110 F1 = 1 F2 = 1
+ABCD = 0111 F1 = 0 F2 = 1
+ABCD = 1000 F1 = 1 F2 = 1
+ABCD = 1001 F1 = 1 F2 = 0
+ABCD = 1010 F1 = 1 F2 = 1
+ABCD = 1011 F1 = 1 F2 = 0
+ABCD = 1100 F1 = 1 F2 = 1
+ABCD = 1101 F1 = 1 F2 = 0
+ABCD = 1110 F1 = 1 F2 = 1
+ABCD = 1111 F1 = 1 F2 = 0
+timberlake {~/cse241/hw7} > exit
+exit
+
+Script done on Fri 15 Nov 2013 11:13:52 PM EST

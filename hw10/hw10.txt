@@ -1,0 +1,21 @@
+Script started on Tue 03 Dec 2013 02:36:55 PM EST
+timberlake {~/cse241/hw10} > exitiverilog -o 5_41.vvp 5_41.v 5_41_tb.v[30Gsubmit_cse241 hw9.zip[K[30Gls[Ksubmit_cse241 hw9.zip[30Giverilog -o 5_41.vvp 5_41.v 5_41_tb.v[30Gexit[K[Kexitiverilog -o 5_41.vvp 5_41.v 5_41_tb.v[30Gsubmit_cse241 hw9.zip[K[30Gls[Ksubmit_cse241 hw9.zip[30Giverilog -o 5_41.vvp 5_41.v 5_41_tb.v[30Gexit[K[Kexitiverilog -o 5_41.vvp 5_41.v 5_41_tb.v[30Gsubmit_cse241 hw9.zip[K[30Gls[Kzip hw9 hw9.zip *.*[30Gvvp 5_41.vvp[K[30Gscript hw9.txt[30Ggtkwave 5_41_wv.vcd[30Gvim 5_41_tb.v[K[30Gcd cse241/hw9[30Gvim 5_41_tb.v[30Ggtkwave 5_41_wv.vcd[30Gscript hw9.txt[K[30Gvvp 5_41.vvp[K[30Gzip hw9 hw9.zip *.*[30Gls[Ksubmit_cse241 hw9.zip[30Giverilog -o 5_41.vvp 5_41.v 5_41_tb.v[30Gexit[K[Kiverilog -o 5_50.vvp 5_50.v 5_50_tb.v
+timberlake {~/cse241/hw10} > iverilog -o 5_50.vvp 5_50.v 5_50_tb.v[30Gexit[Kiverilog -o 5_41.vvp 5_41.v 5_41_tb.v[30Gsubmit_cse241 hw9.zip[K[30Giverilog -o 5_41.vvp 5_41.v 5_41_tb.v[30Gexit[Kiverilog -o 5_50.vvp 5_50.v 5_50_tb.v[30G[Kvvp 5_50.vvp
+VCD info: dumpfile 5_50_wv.vcd opened for output.
+T = 0, reset = 0, y = 0, x = 0
+T = 5, reset = 1, y = 0, x = 0
+T = 10, reset = 1, y = 0, x = 1
+T = 25, reset = 1, y = 1, x = 1
+T = 45, reset = 1, y = 0, x = 1
+T = 65, reset = 1, y = 1, x = 1
+T = 85, reset = 1, y = 0, x = 1
+T = 105, reset = 1, y = 1, x = 1
+T = 125, reset = 1, y = 0, x = 1
+T = 145, reset = 1, y = 1, x = 1
+T = 165, reset = 1, y = 0, x = 1
+T = 185, reset = 1, y = 1, x = 1
+T = 190, reset = 1, y = 1, x = 0
+timberlake {~/cse241/hw10} > exit
+exit
+
+Script done on Tue 03 Dec 2013 02:37:54 PM EST

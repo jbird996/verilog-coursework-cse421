@@ -1,0 +1,31 @@
+Script started on Fri 15 Nov 2013 11:23:31 PM EST
+timberlake {~/cse241/hw7} > exitvvp 4_42_beh.vvp[29G[21@iverilog -o 4_42_beh.[64G 4_42_beh_tb.v[29Gvvp 4_42_gate.vvp[K[29Giverilog -o 4_42_beh.vvp 4_42_beh.v 4_42_beh_tb.v[29Gvvp 4_42_gate.vvp[K[29G[22@iverilog -o 4_42_gate.[66G 4_42_gate_tb.v 
+timberlake {~/cse241/hw7} > iverilog -o 4_42_gate.vvp 4_42_gate.v 4_42_gate_tb.v [A[29Gexit[Kvvp 4_42_beh.vvp[29G[21@iverilog -o 4_42_beh.[64G 4_42_beh_tb.v[29G[21P[43Gvp[K[29G[21@iverilog -o 4_42_beh.[64G 4_42_beh_tb.v[29Gvvp 4_42_gate.vvp[K
+VCD info: dumpfile 4_42_gate_wv.vcd opened for output.
+ABCD= 0000 W = 0 X = 0 Y = 1 Z = 1
+ABCD= 0001 W = 0 X = 1 Y = 0 Z = 0
+ABCD= 0010 W = 0 X = 1 Y = 0 Z = 1
+ABCD= 0011 W = 0 X = 1 Y = 1 Z = 0
+ABCD= 0100 W = 0 X = 1 Y = 1 Z = 1
+ABCD= 0101 W = 1 X = 0 Y = 0 Z = 0
+ABCD= 0110 W = 1 X = 0 Y = 0 Z = 1
+ABCD= 0111 W = 1 X = 0 Y = 1 Z = 0
+ABCD= 1000 W = 1 X = 0 Y = 1 Z = 1
+ABCD= 1001 W = 1 X = 1 Y = 0 Z = 0
+timberlake {~/cse241/hw7} > vvp 4_42_gate.vvp[29G[22@iverilog -o 4_42_gate.[66G 4_42_gate_tb.v [A[29Gexit[Kvvp 4_42_beh.vvp[29G[21@iverilog -o 4_42_beh.[64G 4_42_beh_tb.v
+timberlake {~/cse241/hw7} > iverilog -o 4_42_beh.vvp 4_42_beh.v 4_42_beh_tb.v[29Gvvp 4_42_gate.vvp[K[29G[22@iverilog -o 4_42_gate.[66G 4_42_gate_tb.v [A[29Gexit[Kvvp 4_42_beh.vvp[36G[4P9.vvp[36G[4@2_beh.vvp
+VCD info: dumpfile 4_42_beh_wv.vcd opened for output.
+ABCD = 0000 w = 0 x = 0 y = 1 z = 1
+ABCD = 0001 w = 0 x = 1 y = 0 z = 0
+ABCD = 0010 w = 0 x = 1 y = 0 z = 1
+ABCD = 0011 w = 0 x = 1 y = 1 z = 0
+ABCD = 0100 w = 0 x = 1 y = 1 z = 1
+ABCD = 0101 w = 1 x = 0 y = 0 z = 0
+ABCD = 0110 w = 1 x = 0 y = 0 z = 1
+ABCD = 0111 w = 1 x = 0 y = 1 z = 0
+ABCD = 1000 w = 1 x = 0 y = 1 z = 1
+ABCD = 1001 w = 1 x = 1 y = 0 z = 0
+timberlake {~/cse241/hw7} > exit
+exit
+
+Script done on Fri 15 Nov 2013 11:23:58 PM EST
